@@ -45,7 +45,7 @@ How to manage virtual environments and dependency workflows.
 <img width="1857" height="403" alt="Screenshot 2026-11-11 164956" src="https://github.com/user-attachments/assets/14f4ce1f-279c-4364-bc68-a0a95b74f07a" />
 
 
-<img width="1802" height="883" alt="image" src="https://github.com/user-attachments/assets/c2c71ab4-f331-4a2c-944a-da385f5f9b88" />
+<img width="1804" height="903" alt="image" src="https://github.com/user-attachments/assets/4bd5e5eb-524d-48a5-b3e4-1aaea71a9ee1" />
 
 
 <img width="1785" height="626" alt="image" src="https://github.com/user-attachments/assets/24b47e36-f286-4479-a4aa-9716fa5ae863" />
@@ -57,7 +57,7 @@ How to manage virtual environments and dependency workflows.
 <img width="1685" height="481" alt="image" src="https://github.com/user-attachments/assets/e6c34903-9c86-40b0-9b82-2e15e716726b" />
 
 
-<img width="1691" height="476" alt="image" src="https://github.com/user-attachments/assets/dd85014d-d264-4701-a7c0-1af155e710c9" />
+<img width="1685" height="482" alt="image" src="https://github.com/user-attachments/assets/c8df553b-ecec-4136-91bc-0011fb5425df" />
 
 
 <img width="1686" height="477" alt="image" src="https://github.com/user-attachments/assets/e1c8659f-c6ba-40a0-8e94-cb15cbee816b" />
