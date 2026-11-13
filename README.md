@@ -42,7 +42,7 @@ How to manage virtual environments and dependency workflows.
   Screenshots:
 
 
-<img width="1857" height="403" alt="Screenshot 2026-11-11 164956" src="https://github.com/user-attachments/assets/14f4ce1f-279c-4364-bc68-a0a95b74f07a" />
+<img width="1876" height="442" alt="image" src="https://github.com/user-attachments/assets/0deb5028-f00c-41fb-817b-d22e1fd81fb6" />
 
 
 <img width="1804" height="903" alt="image" src="https://github.com/user-attachments/assets/4bd5e5eb-524d-48a5-b3e4-1aaea71a9ee1" />
