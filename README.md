@@ -32,7 +32,7 @@ To implement SQL queries to isolate meta trends and performance tiers across rol
 How to translate raw telemetry data into filterable visual distributions.
 
 
-To recognize when web scrapers hit modern anti-bot barriers and how to pivot to a Seed Script to ingest structured telemetry reliably. 
+To recognize when an idea cannot physically work and how to pivot to another, potentially better idea. 
 
 
 How to manage virtual environments and dependency workflows.
