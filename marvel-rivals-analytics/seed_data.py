@@ -52,7 +52,7 @@ def seed_all_ranks_data():
         ("Invisible Woman", "Strategist", "B", 49.65, 27.09, 1.16, "All Ranks"),
         ("Blade", "Duelist", "B", 49.50, 5.29, 0.99, "All Ranks"),
         ("Spider-Man", "Duelist", "B", 49.03, 17.54, 18.22, "All Ranks"),
-        ("The Hood", "Duelist", "B", 48.88, 17.57, 1.39, "All Ranks"),
+        ("The Hood", "Vanguard", "B", 48.88, 17.57, 1.39, "All Ranks"),
         ("Black Panther", "Duelist", "B", 48.81, 5.98, 7.75, "All Ranks"),
         ("White Fox", "Strategist", "B", 48.61, 16.27, 0.26, "All Ranks"),
         ("Emma Frost", "Vanguard", "B", 48.15, 20.78, 17.85, "All Ranks"),
@@ -75,7 +75,10 @@ def seed_all_ranks_data():
         ("Cyclops", "Duelist", "D", 44.95, 13.32, 2.07, "All Ranks"),
         ("Black Widow", "Duelist", "D", 44.82, 3.80, 0.25, "All Ranks"),
         ("The Punisher", "Duelist", "D", 44.09, 8.64, 1.14, "All Ranks"),
-        ("Squirrel Girl", "Duelist", "D", 42.71, 5.53, 0.71, "All Ranks")
+        ("Squirrel Girl", "Duelist", "D", 42.71, 5.53, 0.71, "All Ranks"),
+        ("Deadpool", "Vanguard", "C", 48.10, 4.68, 0.36, "All Ranks"),
+        ("Deadpool", "Strategist", "B", 48.34, 3.67, 0.48, "All Ranks"),
+        ("Deadpool", "Duelist", "D", 47.54, 1.42, 0.32, "All Ranks")
     ]
 
     cursor.executemany("""
